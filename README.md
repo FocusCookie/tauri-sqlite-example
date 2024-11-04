@@ -1,2 +1,7 @@
-# tauri-sqlite-example
-This repository provides a guide on setting up an SQLite database with a Tauri 2.0 app and interacting with it from the frontend (JavaScript/TypeScript). It covers backend SQLite configuration and exposing methods to the frontend, enabling seamless database operations like storing, retrieving, and managing local data.
+# Tauri + React + Typescript
+
+This template should help get you started developing with Tauri, React and Typescript in Vite.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
